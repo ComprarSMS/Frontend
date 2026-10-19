@@ -1,6 +1,6 @@
 # Frontend
 
-SPA de QuieroUnSMS. Next.js (App Router, renderizado en el cliente), Tailwind, shadcn/ui y TanStack Query. Los SMS entran por Socket.io y la bandeja se actualiza al momento.
+SPA de ComprarSMS. Next.js (App Router, renderizado en el cliente), Tailwind, shadcn/ui y TanStack Query. Los SMS entran por Socket.io y la bandeja se actualiza al momento.
 
 ## Arranque
 

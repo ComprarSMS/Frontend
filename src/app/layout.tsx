@@ -10,7 +10,7 @@ const mono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'QuieroUnSMS',
+  title: 'ComprarSMS',
   description: 'Recibe códigos de verificación y SMS en números virtuales, en tiempo real.',
 };
 

@@ -5,7 +5,7 @@ import dynamic from 'next/dynamic';
 function BootScreen() {
   return (
     <div className="grid min-h-screen place-items-center text-sm tracking-[0.18em] text-muted-foreground">
-      QUIEROUNSMS
+      COMPRARSMS
     </div>
   );
 }

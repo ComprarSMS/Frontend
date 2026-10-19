@@ -108,7 +108,7 @@ function Inbox() {
           <div>
             <p className="text-[11px] uppercase tracking-[0.22em] text-muted-foreground">Números virtuales</p>
             <h1 className="text-2xl font-semibold tracking-tight">
-              Quiero<span className="text-primary">UnSMS</span>
+              Comprar<span className="text-primary">SMS</span>
             </h1>
           </div>
           <p className="flex items-center gap-2 text-sm">
